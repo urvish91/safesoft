@@ -1,0 +1,52 @@
+{
+    "Header": {
+        "title": "Hi We're SAFESOFT",
+        "paragraph": "We're here to automate Financial and regulation technology"
+
+    },
+    "Fintech": {
+        "title": "Fintech",
+        "image": "img/background2.jpg",
+        "paragraph": "Fintech is Financial technology that automates payments for the transfer of high value assets"
+    },
+
+    "Regtech": {
+        "title": "Regtech",
+        "image": "img/background2.jpg",
+        "paragraph": "Reg tech makes your life easier by automating form filling and ensuring compliant transfer of information between Governments, Businesses and Individuals"
+    },
+    "Vecx": {
+        "title": "VECX",
+        "image": "img/product-vcex.jpg",
+        "paragraph": "Combines the use of Fin tech and Regtech software to create a fast, low cost ecosystem that manages all transfers and is THE WORLDS FASTEST TRADING EXCHANGE T + 60 SECONDS *"
+    },
+    "Pgos": {
+        "title": "PGOS",
+        "image": "img/product-pgsm.jpg",
+        "paragraph": "Property Gallery Operating System manages property listings through to Transfer. Safesoft is currently in development in conjunction with Property Gallery to develop the world first contract compliance property sales system due for release in 2020"
+    },
+    "Pgrm": {
+        "title": "PGRM",
+        "image": "img/product-pgrm.jpg",
+        "paragraph": "Property Gallery Rental Management systems will be added over time to link in with PGOS to enable a smooth transfer of cloud based data from sales to management in both residential and commercial properties; something that the industry currently has serious limitations with"
+    },
+    "Pgsm": {
+        "title": "PGSM",
+        "image": "img/product-pgsm.jpg",
+        "paragraph": "Property Gallery Strata Management benefits from the VCEX operating system with Safesoft automation technology. All future AGM and EGM meetings will be controlled remotely with voting via proxy or virtual attendance in real time."
+    },
+    "About": {
+        "title": "About Us",
+        "image": "img/about.jpg",
+        "paragraph": "Safesoft is a full stack software development company right here in South Beach Fremantle “not in Silicon Valley” We work with talented programmers from around the world to create software that automates processes for companies and their buyers & sellers with our protected patent pending technology. <br/> Our first product is The Venture Capital Exchange we call the VCEX. It automates stock transfers between Small to Medium enterprise without requiring listing on the ASX or having to pay for a Registry Service."
+    },
+
+    "Contact": {
+        "address": "231 South Terrace South Beach Fremantle Western Australia 6162",
+        "phone": "+1 123 456 1234",
+        "email": "hello@safesoft.com.au",
+        "facebook": "fb.com",
+        "twitter": "twitter.com",
+        "youtube": "youtube.com"
+    }
+}
