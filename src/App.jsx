@@ -33,6 +33,7 @@ const App = () => {
       <About data={landingPageData.Pgrm} id="pgrm" left={true}/>
       <About data={landingPageData.Pgsm} id="pgsm" left={false}/>
       <About data={landingPageData.About} id="aboutus" left={true}/>
+      <About data={landingPageData.About} id="aboutus" left={true}/>
       <Contact data={landingPageData.Contact} />
     </div>
   )
